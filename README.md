@@ -32,7 +32,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 -Clone repository:
 ```bash
-git clone "https://github.com/Sat1x/wine-classification"
+git clone "https://github.com/Ivan-Koptiev/wine-classification"
 ```
 
 -Run:
